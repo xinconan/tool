@@ -13,3 +13,10 @@
 
 - [aria2](https://github.com/aria2/aria2) 轻量级的下载工具，很多软件集成它做下载
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) 觉得使用aria2命令繁琐？结合这个再试试
+
+
+
+## 开发
+
+- [Visual Studio Code](https://code.visualstudio.com/) 微软开源的编辑器
+- [atom](https://atom.io/) GitHub推出的代码编辑器
