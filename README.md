@@ -8,8 +8,9 @@
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) 好用的GIF录制工具
 - [Snipaste](https://www.snipaste.com/) 简单但强大的截图工具可以将截图贴在屏幕上！
 
-## 视频播放
+## 视频播放 & 下载
 - [Potplayer](http://potplayer.daum.net/?lang=zh_CN) 很好用的视频播放器，还能找到很多好看的皮肤
+- [人人影视](http://www.yyets.com/) 追剧必备，建议使用PC版下载后观看，手机版广告有点多
 
 
 ## 下载
