@@ -26,6 +26,10 @@
 - [Visual Studio Code](https://code.visualstudio.com/) 微软开源的编辑器
 - [atom](https://atom.io/) GitHub推出的代码编辑器
 
+### 代理调试
+
+- [whistle](https://github.com/avwo/whistle) 跨平台调试代理工具
+
 
 ## 密码
 - [Keepass](https://keepass.info/index.html) 开源的密码管理工具，支持多种语言包
