@@ -33,3 +33,7 @@
 
 ## 密码
 - [Keepass](https://keepass.info/index.html) 开源的密码管理工具，支持多种语言包
+
+
+## Android
+- [apkpure](https://apkpure.com/app) 下载Google Play上的软件
