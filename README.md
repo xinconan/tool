@@ -18,7 +18,7 @@
 - [aria2](https://github.com/aria2/aria2) 轻量级的下载工具，很多软件集成它做下载
 - [webui-aria2](https://github.com/ziahamza/webui-aria2) 觉得使用aria2命令繁琐？结合这个再试试
 - [PanDownload](http://pandownload.com/) 很好用的百度云下载器
-- [速盘](http://speedpan.com/) 另一个百度云下载器，可以不用登录下载分享链接
+- [速盘](https://www.speedpan.com/) 另一个百度云下载器，可以不用登录下载分享链接
 
 
 
