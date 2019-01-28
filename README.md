@@ -51,6 +51,12 @@
 - [pixabay](https://pixabay.com/)
 - [pexels](https://www.pexels.com/)
 
+### 占位图
+- [推妹子](https://tuimeizi.cn/) 
+- [nosrc](https://nosrc.net/)
+- [dummyimage](https://dummyimage.com/)
+- [placeholder](https://placeholder.com/)
+
 ### 图片处理
 - [智图](https://zhitu.isux.us/) 腾讯ISUX前端团队开发的一个专门用于图片压缩和图片格式转换的平台
 - [tinypng](https://tinypng.com/) 在线压缩jpg和png
